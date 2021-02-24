@@ -20,7 +20,7 @@ const Disposition = () => {
   });
 
   const renderChildrens = (item: PlaceItem | undefined) => {
-    if (!item) return <div>No data</div>;
+    if (!item) return null;
     return (
       <Grid key={item.id} alignItems='center' container direction='column'>
         <PlaceCardElement item={item} />

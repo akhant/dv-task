@@ -23,13 +23,11 @@ const InventoryList: React.FC<InventoryListProps> = React.memo(() => {
 
   return (
     <div className={classes.root}>
-      {!inventory.length ? (
-        <div>No data</div>
-      ) : (
-        inv.map((item: InvItem) => {
-          return <InventoryItem key={item.id} item={item} />;
-        })
-      )}
+      {!inventory.length
+        ? null
+        : inv.map((item: InvItem) => {
+            return <InventoryItem key={item.id} item={item} />;
+          })}
     </div>
   );
 });
