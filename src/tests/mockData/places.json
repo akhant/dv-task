@@ -1,0 +1,1013 @@
+{"data": [
+  {
+    "id": "main",
+    "data": {
+      "name": "Главный офис",
+      "parts": [
+        {
+          "_delegate": {
+            "_converter": null,
+            "_key": {
+              "path": {
+                "segments": [
+                  "projects",
+                  "dv-inventory",
+                  "databases",
+                  "(default)",
+                  "documents",
+                  "places",
+                  "main-left"
+                ],
+                "offset": 5,
+                "len": 2
+              }
+            },
+            "type": "document",
+            "firestore": {
+              "app": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              },
+              "databaseId": {
+                "projectId": "dv-inventory",
+                "database": "(default)"
+              },
+              "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": false
+              }
+            }
+          },
+          "firestore": {
+            "_delegate": {
+              "app": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              },
+              "databaseId": {
+                "projectId": "dv-inventory",
+                "database": "(default)"
+              },
+              "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": false
+              }
+            },
+            "_persistenceProvider": {},
+            "INTERNAL": {},
+            "_appCompat": {
+              "name": "[DEFAULT]",
+              "automaticDataCollectionEnabled": false,
+              "options": {
+                "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                "authDomain": "dv-inventory.firebaseapp.com",
+                "databaseURL": "https://dv-inventory.firebaseio.com",
+                "projectId": "dv-inventory",
+                "storageBucket": "dv-inventory.appspot.com",
+                "messagingSenderId": "130062240176",
+                "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+              }
+            }
+          },
+          "_userDataWriter": {
+            "firestore": {
+              "_delegate": {
+                "app": {
+                  "name": "[DEFAULT]",
+                  "automaticDataCollectionEnabled": false,
+                  "options": {
+                    "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                    "authDomain": "dv-inventory.firebaseapp.com",
+                    "databaseURL": "https://dv-inventory.firebaseio.com",
+                    "projectId": "dv-inventory",
+                    "storageBucket": "dv-inventory.appspot.com",
+                    "messagingSenderId": "130062240176",
+                    "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                  }
+                },
+                "databaseId": {
+                  "projectId": "dv-inventory",
+                  "database": "(default)"
+                },
+                "settings": {
+                  "host": "firestore.googleapis.com",
+                  "ssl": true,
+                  "ignoreUndefinedProperties": false,
+                  "cacheSizeBytes": 41943040,
+                  "experimentalForceLongPolling": false,
+                  "experimentalAutoDetectLongPolling": false
+                }
+              },
+              "_persistenceProvider": {},
+              "INTERNAL": {},
+              "_appCompat": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              }
+            }
+          }
+        },
+        {
+          "_delegate": {
+            "_converter": null,
+            "_key": {
+              "path": {
+                "segments": [
+                  "projects",
+                  "dv-inventory",
+                  "databases",
+                  "(default)",
+                  "documents",
+                  "places",
+                  "main-right"
+                ],
+                "offset": 5,
+                "len": 2
+              }
+            },
+            "type": "document",
+            "firestore": {
+              "app": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              },
+              "databaseId": {
+                "projectId": "dv-inventory",
+                "database": "(default)"
+              },
+              "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": false
+              }
+            }
+          },
+          "firestore": {
+            "_delegate": {
+              "app": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              },
+              "databaseId": {
+                "projectId": "dv-inventory",
+                "database": "(default)"
+              },
+              "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": false
+              }
+            },
+            "_persistenceProvider": {},
+            "INTERNAL": {},
+            "_appCompat": {
+              "name": "[DEFAULT]",
+              "automaticDataCollectionEnabled": false,
+              "options": {
+                "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                "authDomain": "dv-inventory.firebaseapp.com",
+                "databaseURL": "https://dv-inventory.firebaseio.com",
+                "projectId": "dv-inventory",
+                "storageBucket": "dv-inventory.appspot.com",
+                "messagingSenderId": "130062240176",
+                "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+              }
+            }
+          },
+          "_userDataWriter": {
+            "firestore": {
+              "_delegate": {
+                "app": {
+                  "name": "[DEFAULT]",
+                  "automaticDataCollectionEnabled": false,
+                  "options": {
+                    "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                    "authDomain": "dv-inventory.firebaseapp.com",
+                    "databaseURL": "https://dv-inventory.firebaseio.com",
+                    "projectId": "dv-inventory",
+                    "storageBucket": "dv-inventory.appspot.com",
+                    "messagingSenderId": "130062240176",
+                    "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                  }
+                },
+                "databaseId": {
+                  "projectId": "dv-inventory",
+                  "database": "(default)"
+                },
+                "settings": {
+                  "host": "firestore.googleapis.com",
+                  "ssl": true,
+                  "ignoreUndefinedProperties": false,
+                  "cacheSizeBytes": 41943040,
+                  "experimentalForceLongPolling": false,
+                  "experimentalAutoDetectLongPolling": false
+                }
+              },
+              "_persistenceProvider": {},
+              "INTERNAL": {},
+              "_appCompat": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "parts": ["main-left", "main-right"]
+  },
+  { "id": "main-101", "data": { "name": "Кабинет 101" } },
+  { "id": "main-102", "data": { "name": "Кабинет 102" } },
+  { "id": "main-head", "data": { "name": "Кабинет руководителя" } },
+  {
+    "id": "main-left",
+    "data": {
+      "name": "Левое крыло",
+      "parts": [
+        {
+          "_delegate": {
+            "_converter": null,
+            "_key": {
+              "path": {
+                "segments": [
+                  "projects",
+                  "dv-inventory",
+                  "databases",
+                  "(default)",
+                  "documents",
+                  "places",
+                  "main-101"
+                ],
+                "offset": 5,
+                "len": 2
+              }
+            },
+            "type": "document",
+            "firestore": {
+              "app": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              },
+              "databaseId": {
+                "projectId": "dv-inventory",
+                "database": "(default)"
+              },
+              "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": false
+              }
+            }
+          },
+          "firestore": {
+            "_delegate": {
+              "app": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              },
+              "databaseId": {
+                "projectId": "dv-inventory",
+                "database": "(default)"
+              },
+              "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": false
+              }
+            },
+            "_persistenceProvider": {},
+            "INTERNAL": {},
+            "_appCompat": {
+              "name": "[DEFAULT]",
+              "automaticDataCollectionEnabled": false,
+              "options": {
+                "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                "authDomain": "dv-inventory.firebaseapp.com",
+                "databaseURL": "https://dv-inventory.firebaseio.com",
+                "projectId": "dv-inventory",
+                "storageBucket": "dv-inventory.appspot.com",
+                "messagingSenderId": "130062240176",
+                "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+              }
+            }
+          },
+          "_userDataWriter": {
+            "firestore": {
+              "_delegate": {
+                "app": {
+                  "name": "[DEFAULT]",
+                  "automaticDataCollectionEnabled": false,
+                  "options": {
+                    "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                    "authDomain": "dv-inventory.firebaseapp.com",
+                    "databaseURL": "https://dv-inventory.firebaseio.com",
+                    "projectId": "dv-inventory",
+                    "storageBucket": "dv-inventory.appspot.com",
+                    "messagingSenderId": "130062240176",
+                    "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                  }
+                },
+                "databaseId": {
+                  "projectId": "dv-inventory",
+                  "database": "(default)"
+                },
+                "settings": {
+                  "host": "firestore.googleapis.com",
+                  "ssl": true,
+                  "ignoreUndefinedProperties": false,
+                  "cacheSizeBytes": 41943040,
+                  "experimentalForceLongPolling": false,
+                  "experimentalAutoDetectLongPolling": false
+                }
+              },
+              "_persistenceProvider": {},
+              "INTERNAL": {},
+              "_appCompat": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              }
+            }
+          }
+        },
+        {
+          "_delegate": {
+            "_converter": null,
+            "_key": {
+              "path": {
+                "segments": [
+                  "projects",
+                  "dv-inventory",
+                  "databases",
+                  "(default)",
+                  "documents",
+                  "places",
+                  "main-102"
+                ],
+                "offset": 5,
+                "len": 2
+              }
+            },
+            "type": "document",
+            "firestore": {
+              "app": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              },
+              "databaseId": {
+                "projectId": "dv-inventory",
+                "database": "(default)"
+              },
+              "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": false
+              }
+            }
+          },
+          "firestore": {
+            "_delegate": {
+              "app": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              },
+              "databaseId": {
+                "projectId": "dv-inventory",
+                "database": "(default)"
+              },
+              "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": false
+              }
+            },
+            "_persistenceProvider": {},
+            "INTERNAL": {},
+            "_appCompat": {
+              "name": "[DEFAULT]",
+              "automaticDataCollectionEnabled": false,
+              "options": {
+                "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                "authDomain": "dv-inventory.firebaseapp.com",
+                "databaseURL": "https://dv-inventory.firebaseio.com",
+                "projectId": "dv-inventory",
+                "storageBucket": "dv-inventory.appspot.com",
+                "messagingSenderId": "130062240176",
+                "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+              }
+            }
+          },
+          "_userDataWriter": {
+            "firestore": {
+              "_delegate": {
+                "app": {
+                  "name": "[DEFAULT]",
+                  "automaticDataCollectionEnabled": false,
+                  "options": {
+                    "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                    "authDomain": "dv-inventory.firebaseapp.com",
+                    "databaseURL": "https://dv-inventory.firebaseio.com",
+                    "projectId": "dv-inventory",
+                    "storageBucket": "dv-inventory.appspot.com",
+                    "messagingSenderId": "130062240176",
+                    "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                  }
+                },
+                "databaseId": {
+                  "projectId": "dv-inventory",
+                  "database": "(default)"
+                },
+                "settings": {
+                  "host": "firestore.googleapis.com",
+                  "ssl": true,
+                  "ignoreUndefinedProperties": false,
+                  "cacheSizeBytes": 41943040,
+                  "experimentalForceLongPolling": false,
+                  "experimentalAutoDetectLongPolling": false
+                }
+              },
+              "_persistenceProvider": {},
+              "INTERNAL": {},
+              "_appCompat": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "parts": ["main-101", "main-102"]
+  },
+  {
+    "id": "main-right",
+    "data": {
+      "name": "Правое крыло",
+      "parts": [
+        {
+          "_delegate": {
+            "_converter": null,
+            "_key": {
+              "path": {
+                "segments": [
+                  "projects",
+                  "dv-inventory",
+                  "databases",
+                  "(default)",
+                  "documents",
+                  "places",
+                  "main-head"
+                ],
+                "offset": 5,
+                "len": 2
+              }
+            },
+            "type": "document",
+            "firestore": {
+              "app": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              },
+              "databaseId": {
+                "projectId": "dv-inventory",
+                "database": "(default)"
+              },
+              "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": false
+              }
+            }
+          },
+          "firestore": {
+            "_delegate": {
+              "app": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              },
+              "databaseId": {
+                "projectId": "dv-inventory",
+                "database": "(default)"
+              },
+              "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": false
+              }
+            },
+            "_persistenceProvider": {},
+            "INTERNAL": {},
+            "_appCompat": {
+              "name": "[DEFAULT]",
+              "automaticDataCollectionEnabled": false,
+              "options": {
+                "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                "authDomain": "dv-inventory.firebaseapp.com",
+                "databaseURL": "https://dv-inventory.firebaseio.com",
+                "projectId": "dv-inventory",
+                "storageBucket": "dv-inventory.appspot.com",
+                "messagingSenderId": "130062240176",
+                "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+              }
+            }
+          },
+          "_userDataWriter": {
+            "firestore": {
+              "_delegate": {
+                "app": {
+                  "name": "[DEFAULT]",
+                  "automaticDataCollectionEnabled": false,
+                  "options": {
+                    "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                    "authDomain": "dv-inventory.firebaseapp.com",
+                    "databaseURL": "https://dv-inventory.firebaseio.com",
+                    "projectId": "dv-inventory",
+                    "storageBucket": "dv-inventory.appspot.com",
+                    "messagingSenderId": "130062240176",
+                    "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                  }
+                },
+                "databaseId": {
+                  "projectId": "dv-inventory",
+                  "database": "(default)"
+                },
+                "settings": {
+                  "host": "firestore.googleapis.com",
+                  "ssl": true,
+                  "ignoreUndefinedProperties": false,
+                  "cacheSizeBytes": 41943040,
+                  "experimentalForceLongPolling": false,
+                  "experimentalAutoDetectLongPolling": false
+                }
+              },
+              "_persistenceProvider": {},
+              "INTERNAL": {},
+              "_appCompat": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "parts": ["main-head"]
+  },
+  {
+    "id": "production",
+    "data": {
+      "name": "Производственный комплекс",
+      "parts": [
+        {
+          "_delegate": {
+            "_converter": null,
+            "_key": {
+              "path": {
+                "segments": [
+                  "projects",
+                  "dv-inventory",
+                  "databases",
+                  "(default)",
+                  "documents",
+                  "places",
+                  "production-1"
+                ],
+                "offset": 5,
+                "len": 2
+              }
+            },
+            "type": "document",
+            "firestore": {
+              "app": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              },
+              "databaseId": {
+                "projectId": "dv-inventory",
+                "database": "(default)"
+              },
+              "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": false
+              }
+            }
+          },
+          "firestore": {
+            "_delegate": {
+              "app": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              },
+              "databaseId": {
+                "projectId": "dv-inventory",
+                "database": "(default)"
+              },
+              "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": false
+              }
+            },
+            "_persistenceProvider": {},
+            "INTERNAL": {},
+            "_appCompat": {
+              "name": "[DEFAULT]",
+              "automaticDataCollectionEnabled": false,
+              "options": {
+                "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                "authDomain": "dv-inventory.firebaseapp.com",
+                "databaseURL": "https://dv-inventory.firebaseio.com",
+                "projectId": "dv-inventory",
+                "storageBucket": "dv-inventory.appspot.com",
+                "messagingSenderId": "130062240176",
+                "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+              }
+            }
+          },
+          "_userDataWriter": {
+            "firestore": {
+              "_delegate": {
+                "app": {
+                  "name": "[DEFAULT]",
+                  "automaticDataCollectionEnabled": false,
+                  "options": {
+                    "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                    "authDomain": "dv-inventory.firebaseapp.com",
+                    "databaseURL": "https://dv-inventory.firebaseio.com",
+                    "projectId": "dv-inventory",
+                    "storageBucket": "dv-inventory.appspot.com",
+                    "messagingSenderId": "130062240176",
+                    "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                  }
+                },
+                "databaseId": {
+                  "projectId": "dv-inventory",
+                  "database": "(default)"
+                },
+                "settings": {
+                  "host": "firestore.googleapis.com",
+                  "ssl": true,
+                  "ignoreUndefinedProperties": false,
+                  "cacheSizeBytes": 41943040,
+                  "experimentalForceLongPolling": false,
+                  "experimentalAutoDetectLongPolling": false
+                }
+              },
+              "_persistenceProvider": {},
+              "INTERNAL": {},
+              "_appCompat": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              }
+            }
+          }
+        },
+        {
+          "_delegate": {
+            "_converter": null,
+            "_key": {
+              "path": {
+                "segments": [
+                  "projects",
+                  "dv-inventory",
+                  "databases",
+                  "(default)",
+                  "documents",
+                  "places",
+                  "production-2"
+                ],
+                "offset": 5,
+                "len": 2
+              }
+            },
+            "type": "document",
+            "firestore": {
+              "app": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              },
+              "databaseId": {
+                "projectId": "dv-inventory",
+                "database": "(default)"
+              },
+              "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": false
+              }
+            }
+          },
+          "firestore": {
+            "_delegate": {
+              "app": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              },
+              "databaseId": {
+                "projectId": "dv-inventory",
+                "database": "(default)"
+              },
+              "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": false
+              }
+            },
+            "_persistenceProvider": {},
+            "INTERNAL": {},
+            "_appCompat": {
+              "name": "[DEFAULT]",
+              "automaticDataCollectionEnabled": false,
+              "options": {
+                "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                "authDomain": "dv-inventory.firebaseapp.com",
+                "databaseURL": "https://dv-inventory.firebaseio.com",
+                "projectId": "dv-inventory",
+                "storageBucket": "dv-inventory.appspot.com",
+                "messagingSenderId": "130062240176",
+                "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+              }
+            }
+          },
+          "_userDataWriter": {
+            "firestore": {
+              "_delegate": {
+                "app": {
+                  "name": "[DEFAULT]",
+                  "automaticDataCollectionEnabled": false,
+                  "options": {
+                    "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                    "authDomain": "dv-inventory.firebaseapp.com",
+                    "databaseURL": "https://dv-inventory.firebaseio.com",
+                    "projectId": "dv-inventory",
+                    "storageBucket": "dv-inventory.appspot.com",
+                    "messagingSenderId": "130062240176",
+                    "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                  }
+                },
+                "databaseId": {
+                  "projectId": "dv-inventory",
+                  "database": "(default)"
+                },
+                "settings": {
+                  "host": "firestore.googleapis.com",
+                  "ssl": true,
+                  "ignoreUndefinedProperties": false,
+                  "cacheSizeBytes": 41943040,
+                  "experimentalForceLongPolling": false,
+                  "experimentalAutoDetectLongPolling": false
+                }
+              },
+              "_persistenceProvider": {},
+              "INTERNAL": {},
+              "_appCompat": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false,
+                "options": {
+                  "apiKey": "AIzaSyD6DnGbVfdJlDJ_pEOUfDfTDJrA8j3lIs8",
+                  "authDomain": "dv-inventory.firebaseapp.com",
+                  "databaseURL": "https://dv-inventory.firebaseio.com",
+                  "projectId": "dv-inventory",
+                  "storageBucket": "dv-inventory.appspot.com",
+                  "messagingSenderId": "130062240176",
+                  "appId": "1:130062240176:web:ecbca5d29b37d25c6cee75"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "parts": ["production-1", "production-2"]
+  },
+  {
+    "id": "production-1",
+    "data": { "name": "Цех предварительной обработки сырьевого материала" }
+  },
+  { "id": "production-2", "data": { "name": "Производственный цех" } }
+]
+}

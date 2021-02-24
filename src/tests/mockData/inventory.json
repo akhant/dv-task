@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "id": "fFb6P9RVpVeQCA0xasdd",
+      "data": { "place": { "id": "production" }, "count": 1, "name": "ывафы" },
+      "placeId": "production-1"
+    },
+
+    {
+      "id": "jAgwEJiFeVPWLJxN414X",
+      "data": {
+        "count": "1",
+        "name": "Полустанок"
+      },
+      "placeId": "production-2"
+    },
+
+    {
+      "id": "qcG1JBdFs6RlxsS9xuXS",
+      "data": { "count": "332", "name": "Коровs" },
+      "placeId": "main-101"
+    },
+    { "id": "r8w9je2KZeDlz4H0jTE7", "data": { "data": { "count": 2 } } },
+    {
+      "id": "sVztDopAzw31OSiq3rB8",
+      "data": {
+        "count": "123",
+        "name": "00"
+      },
+      "placeId": "production-1"
+    },
+    {
+      "id": "tC2J0rm1e71qV4poh1Ck",
+      "data": { "count": "20" },
+      "placeId": "main-101"
+    },
+    {
+      "id": "tDbRs4TD4X9lUoDvL8YD",
+      "data": { "name": "Стул  ", "count": " yee" }
+    },
+    {
+      "id": "tj3fTG1Y8OTYuxWr7nXW",
+      "data": {
+        "count": 1,
+        "name": "стол руководителя"
+      },
+      "placeId": "main-head"
+    },
+    {
+      "id": "u2hVHZHqGKTaK0fPrSlE",
+      "data": {
+        "count": " 1",
+        "name": "Компьютер  "
+      },
+      "placeId": "main-101"
+    },
+    {
+      "id": "uDIcWd2HifvLtzcf4Pyh",
+      "data": { "count": 1 },
+      "placeId": "main-102"
+    },
+    {
+      "id": "uqu5y9VxUm4WPi5hqpNe",
+      "data": { "count": "2" }
+    }
+  ]
+}
